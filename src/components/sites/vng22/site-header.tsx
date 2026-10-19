@@ -2,13 +2,17 @@
 
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { ASSET, NAV_ITEMS, sourceUrl } from "./constants";
 
 const navLinkClass = "eyebrow text-ink w-full py-2.5 md:w-auto md:py-0";
 
 export function SiteHeader() {
+  const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  // The English edition is not cloned; it stays on the source site.
+  const englishHref = sourceUrl(pathname === "/" ? "/en" : `/en${pathname}`);
 
   return (
     <header className="z-header fixed inset-x-0 top-0">
@@ -20,17 +24,27 @@ export function SiteHeader() {
           aria-label="Điều hướng chính"
           className={`${open ? "flex" : "hidden"} bg-paper absolute inset-x-0 top-full flex-col items-start gap-1 px-6 py-4 md:static md:flex md:flex-row md:items-center md:gap-8 md:bg-transparent md:p-0`}
         >
-          {NAV_ITEMS.map((item) =>
-            item.external ? (
-              <a key={item.label} href={item.href} target="_blank" rel="noreferrer" className={navLinkClass}>
+          {NAV_ITEMS.map((item) => {
+            if (item.external) {
+              return (
+                <a key={item.label} href={item.href} target="_blank" rel="noreferrer" className={navLinkClass}>
+                  {item.label}
+                </a>
+              );
+            }
+            const active = pathname === item.href;
+            return (
+              <Link
+                key={item.label}
+                href={item.href}
+                aria-current={active ? "page" : undefined}
+                onClick={() => setOpen(false)}
+                className={`${navLinkClass} ${active ? "underline underline-offset-8" : ""}`}
+              >
                 {item.label}
-              </a>
-            ) : (
-              <a key={item.label} href={item.href} className={navLinkClass}>
-                {item.label}
-              </a>
-            ),
-          )}
+              </Link>
+            );
+          })}
         </nav>
         <div className="flex shrink-0 items-center gap-3 md:ml-8">
           <div
@@ -39,7 +53,7 @@ export function SiteHeader() {
             className="rounded-pill inline-flex items-center border border-[color:var(--color-rule)] p-1"
           >
             <Link
-              href="/"
+              href={pathname}
               hrefLang="vi"
               aria-current="true"
               className="rounded-pill bg-accent text-on-invert px-3 py-1 text-xs font-semibold tracking-wide transition-colors"
@@ -47,7 +61,7 @@ export function SiteHeader() {
               VI
             </Link>
             <a
-              href={sourceUrl("/en")}
+              href={englishHref}
               hrefLang="en"
               className="rounded-pill text-muted hover:text-ink px-3 py-1 text-xs font-semibold tracking-wide transition-colors"
             >

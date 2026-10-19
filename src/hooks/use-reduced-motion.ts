@@ -11,13 +11,13 @@ function subscribe(onChange: () => void) {
 }
 
 /**
- * Server render assumes reduced motion so static fallbacks (posters, still logos)
+ * By default the server render assumes reduced motion so static fallbacks (posters, still logos)
  * ship in the HTML; the client upgrades to motion after hydration.
  */
-export function useReducedMotion() {
+export function useReducedMotion(serverValue = true) {
   return useSyncExternalStore(
     subscribe,
     () => window.matchMedia(QUERY).matches,
-    () => true,
+    () => serverValue,
   );
 }

@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { CursorDot } from "@/components/sites/vng22/cursor-dot";
+import { SiteHeader } from "@/components/sites/vng22/site-header";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,7 +15,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
-      <body>{children}</body>
+      <body>
+        <SiteHeader />
+        {children}
+        <div aria-hidden="true" className="grain-overlay" />
+        <CursorDot />
+      </body>
     </html>
   );
 }

@@ -1,16 +1,9 @@
 "use client";
 
-/* eslint-disable @next/next/no-img-element */
-import { useCallback, useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
-import { useReducedMotion } from "@/hooks/use-reduced-motion";
+import { useCallback, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import { CarouselArrows } from "./carousel-arrows";
-import { ASSET } from "./constants";
-import survivorsData from "./data/survivors.json";
+import { SURVIVORS, SurvivorCard, TenureTabs, useColumnTicker, wrap } from "./survivor-shared";
 
-type Survivor = { username: string; name: string; image: string; tenure: number; bu: string };
-
-const SURVIVORS = survivorsData as Survivor[];
-const TENURES = [10, 15, 20];
 const COLUMNS = 5;
 const INTERVAL_MS = 3200;
 /**
@@ -22,9 +15,6 @@ const STEP = CARD + 20;
 const SLOTS = [0, STEP];
 const STAGE_HEIGHT = 2 * STEP - 20;
 const COLUMN_VISIBILITY = ["", "", "hidden sm:block", "hidden lg:block", "hidden lg:block"];
-const LOGO = `${ASSET}/survivors/logo-survivor.webp`;
-
-const wrap = (n: number, len: number) => ((n % len) + len) % len;
 
 /** Card indices rendered per column: one above, the two visible, one below. */
 const windowFor = (offset: number) => [offset - 1, offset, offset + 1, offset + 2];
@@ -36,88 +26,11 @@ function slotFor(index: number, offset: number) {
   return { top: SLOTS[rel], opacity: 1 };
 }
 
-function useColumnTicker(paused: boolean) {
-  const reduced = useReducedMotion();
-  const [offsets, setOffsets] = useState<number[]>(() => Array(COLUMNS).fill(0));
-  const counter = useRef(0);
-
-  useEffect(() => {
-    if (paused || reduced) return;
-    const id = window.setInterval(() => {
-      const column = counter.current % COLUMNS;
-      counter.current += 1;
-      setOffsets((prev) => prev.map((value, i) => (i === column ? value + 1 : value)));
-    }, INTERVAL_MS);
-    return () => window.clearInterval(id);
-  }, [paused, reduced]);
-
-  return { offsets, setOffsets };
-}
-
-function SurvivorCard({ person }: { person: Survivor }) {
-  const [hovered, setHovered] = useState(false);
-  const [failed, setFailed] = useState(false);
-  const src = failed ? LOGO : person.image;
-  const isLogo = src === LOGO;
-
-  return (
-    <div
-      data-cursor-mode="portrait"
-      className="shot group relative aspect-[8/9] w-full overflow-hidden rounded-md bg-transparent"
-      style={{ containerType: "inline-size" }}
-      onMouseEnter={() => setHovered(true)}
-      onMouseLeave={() => setHovered(false)}
-    >
-      <img
-        src={`${ASSET}/survivors/bg.png`}
-        alt=""
-        className="pointer-events-none absolute bottom-0 left-1/2 z-0 aspect-square w-full -translate-x-1/2 object-cover transition-opacity duration-500"
-        style={{ opacity: hovered ? 0 : 1 }}
-      />
-      <img
-        src={`${ASSET}/survivors/bg-highlight.png`}
-        alt=""
-        className="pointer-events-none absolute bottom-0 left-1/2 z-0 aspect-square w-full -translate-x-1/2 object-cover transition-opacity duration-500"
-        style={{ opacity: hovered ? 1 : 0 }}
-      />
-      {isLogo ? (
-        <div className="pointer-events-none absolute bottom-0 left-1/2 z-10 flex aspect-square w-full -translate-x-1/2 items-center justify-center px-[15%]">
-          <img src={src} alt="VNG Survivor" className="max-h-full max-w-full object-contain" />
-        </div>
-      ) : (
-        <img
-          src={src}
-          alt={person.name}
-          onError={() => setFailed(true)}
-          className="pointer-events-none absolute bottom-0 left-1/2 z-10 h-full w-auto -translate-x-1/2 object-contain object-bottom"
-        />
-      )}
-      <div className="pointer-events-none absolute right-0 bottom-0 left-0 z-20 h-1/4 bg-gradient-to-t from-black/85 via-black/40 to-transparent" />
-      <div className="absolute right-0 bottom-0 left-0 z-30 flex flex-col justify-end p-[5.97cqw] text-white">
-        <p
-          className="leading-tight font-bold tracking-tight text-white drop-shadow"
-          style={{ fontSize: "clamp(11px, 5.6cqw, 15px)" }}
-        >
-          {person.name}
-        </p>
-        <p
-          className="mt-0.5 truncate leading-tight text-white/80 drop-shadow"
-          style={{ fontSize: "clamp(9px, 4.48cqw, 12px)" }}
-        >
-          {person.bu}
-        </p>
-        <span className="sr-only">vng.{person.username}</span>
-      </div>
-    </div>
-  );
-}
-
 export function SurvivorSection() {
   const [tenure, setTenure] = useState(10);
-  const [paused, setPaused] = useState(false);
   const [dragging, setDragging] = useState(false);
   const [carried, setCarried] = useState(0);
-  const { offsets, setOffsets } = useColumnTicker(paused);
+  const { offsets, setOffsets, setPaused, pauseHandlers } = useColumnTicker(COLUMNS, INTERVAL_MS);
   const drag = useRef<{ x: number; carried: number } | null>(null);
 
   const people = useMemo(() => SURVIVORS.filter((s) => s.tenure === tenure), [tenure]);
@@ -177,31 +90,7 @@ export function SurvivorSection() {
       </div>
 
       <div className="mt-14">
-        <div role="tablist" aria-label="Số năm gắn bó" className="rule-top flex flex-wrap">
-          {TENURES.map((value, i) => {
-            const selected = value === tenure;
-            return (
-              <button
-                key={value}
-                type="button"
-                role="tab"
-                aria-selected={selected}
-                onClick={() => setTenure(value)}
-                className={`flex min-w-[180px] flex-1 items-baseline justify-between gap-5 py-7 text-left ${
-                  i > 0 ? "border-l border-[color:var(--color-rule)] pl-6" : ""
-                } ${i < TENURES.length - 1 ? "pr-6" : ""}`}
-              >
-                <span
-                  className={`font-display text-[clamp(24px,3vw,40px)] leading-none font-bold tracking-tight transition-colors ${
-                    selected ? "gradient-text" : "text-[color:var(--color-vng-ash)]"
-                  }`}
-                >
-                  {value} năm
-                </span>
-              </button>
-            );
-          })}
-        </div>
+        <TenureTabs tenure={tenure} onChoose={setTenure} hideCount />
       </div>
 
       <div className="rule-bottom mt-10 flex items-end justify-between gap-6 pb-5">
@@ -220,10 +109,7 @@ export function SurvivorSection() {
       </div>
 
       <div
-        onMouseEnter={() => setPaused(true)}
-        onMouseLeave={() => setPaused(false)}
-        onFocusCapture={() => setPaused(true)}
-        onBlurCapture={() => setPaused(false)}
+        {...pauseHandlers}
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}
         onPointerUp={endDrag}

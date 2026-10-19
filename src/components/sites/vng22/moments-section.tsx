@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-import { ASSET, sourceUrl } from "./constants";
+import Link from "next/link";
+import { ASSET, ROUTES } from "./constants";
 
 const PHOTOS = ["316", "341", "37", "07", "191", "158", "60", "376", "394", "333"].map(
   (id) => `${ASSET}/moments/${id}.webp`,
@@ -31,12 +32,12 @@ export function MomentsSection() {
               trong sự kiện.
             </p>
           </div>
-          <a
-            href={sourceUrl("/moments")}
+          <Link
+            href={ROUTES.moments}
             className="bg-accent text-on-invert rounded-pill inline-flex min-h-[52px] shrink-0 items-center gap-3 px-7 text-[15px] font-medium"
           >
             Xem thêm<span aria-hidden="true">→</span>
-          </a>
+          </Link>
         </div>
       </div>
       <div className="mt-12">

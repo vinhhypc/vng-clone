@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-import { ASSET, sourceUrl } from "./constants";
+import Link from "next/link";
+import { ASSET, ROUTES } from "./constants";
 
 const QUOTE = [
   "Theo anh, hãy để công nghệ đảm nhận ngày càng nhiều những việc máy móc có thể làm tốt, để con người có thêm thời gian và năng lực cho những điều thực sự có ý nghĩa. Đó có thể là thêm thời gian để suy nghĩ và sáng tạo, để hiểu đồng đội, gia đình và người dùng của mình hơn, để xây dựng những mối quan hệ sâu sắc hơn và giải quyết những vấn đề thực sự có ý nghĩa.",
@@ -37,19 +38,19 @@ export function FounderLetterSection() {
             <p className="text-body text-ink-brand leading-relaxed">{QUOTE[0]}</p>
             <p className="text-body-lg text-ink-brand font-display leading-relaxed font-medium">{QUOTE[1]}</p>
           </blockquote>
-          <a
-            href={sourceUrl("/VNG22-Letter")}
+          <Link
+            href={ROUTES.letter2026}
             className="eyebrow text-accent hover:text-ink-brand mt-6 inline-flex items-center gap-2 bg-transparent transition-colors"
           >
             Đọc thư VNG22<span aria-hidden="true">→</span>
-          </a>
+          </Link>
           <div className="mt-10">
-            <a
-              href={sourceUrl("/VNG-Birthday-Email")}
+            <Link
+              href={ROUTES.letters}
               className="bg-accent text-on-invert rounded-pill inline-flex min-h-[52px] items-center gap-3 px-7 text-[15px] font-medium"
             >
               Thư Nhà sáng lập qua các năm<span aria-hidden="true">→</span>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

@@ -1,5 +1,7 @@
-import { sourceUrl } from "./constants";
+import Link from "next/link";
+import { ROUTES } from "./constants";
 import wishesData from "./data/wishes.json";
+import { WishCard } from "./wish-card";
 
 type Wish = { id: number; name: string; text: string; team?: string };
 
@@ -16,25 +18,6 @@ function fillWall(items: Wish[], columns = 3, rows = 4) {
 
 const WALL = fillWall(wishesData as Wish[]);
 
-function WishCard({ wish, hidden }: { wish: Wish; hidden: boolean }) {
-  return (
-    <article
-      aria-hidden={hidden ? "true" : undefined}
-      className="bg-paper rounded-tight relative overflow-hidden border border-[color:var(--color-rule)]"
-    >
-      <div className="p-5">
-        <p className="text-[15px] leading-normal break-words">{wish.text}</p>
-        <div className="mt-4 flex items-end justify-between gap-3">
-          <p className="eyebrow text-ink-brand">
-            — {wish.name}
-            {wish.team ? ` · ${wish.team}` : ""}
-          </p>
-        </div>
-      </div>
-    </article>
-  );
-}
-
 export function WishesSection() {
   return (
     <section id="wishes" aria-labelledby="wishes-title" className="max-w-page mx-auto px-6 py-32">
@@ -47,12 +30,12 @@ export function WishesSection() {
             Lời chúc VNG22
           </h2>
           <div className="mt-8">
-            <a
-              href={sourceUrl("/wish-wall")}
+            <Link
+              href={ROUTES.wishes}
               className="bg-accent text-on-invert rounded-pill inline-flex min-h-[52px] items-center gap-3 px-7 text-[15px] font-medium"
             >
               Gửi lời chúc đến VNG <span aria-hidden="true">↗</span>
-            </a>
+            </Link>
           </div>
         </div>
         <div className="wish-wall stage h-[600px]">

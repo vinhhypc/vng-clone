@@ -82,6 +82,10 @@
   --text-title--line-height: 0.95;
   --text-title--letter-spacing: -0.05em;
   --text-title--font-weight: 700;
+  --text-display: clamp(2.5rem, 6vw, 5.5rem);
+  --text-display--line-height: 0.95;
+  --text-display--letter-spacing: -0.05em;
+  --text-display--font-weight: 700;
   --text-mega: clamp(4.5rem, 15vw, 13.75rem);
   --text-mega--line-height: 0.95;
   --text-mega--letter-spacing: -0.05em;
@@ -125,6 +129,9 @@
   --cursor-scale-hover: 1.8;
   --cursor-opacity-hover: 0.65;
   --cursor-scale-portrait: 1.5;
+  --ripple-plate-opacity: 0.28;
+  --ripple-plate-opacity-hero: 0.62;
+  --space-diacritic: 0.12em;
 }
 
 @layer base {
@@ -349,6 +356,90 @@
   .gallery-card-tall {
     flex-basis: 190px;
   }
+
+  /* Headline lines that rise into view; padding keeps Vietnamese diacritics unclipped. */
+  .reveal-line {
+    display: block;
+    overflow: hidden;
+    padding-top: var(--space-diacritic);
+    margin-top: calc(var(--space-diacritic) * -1);
+    padding-bottom: calc(var(--space-diacritic) * 1.25);
+    margin-bottom: calc(var(--space-diacritic) * -1.25);
+  }
+  .reveal-line > span {
+    display: block;
+    animation: reveal-rise var(--duration-slow) var(--ease-brand) both;
+  }
+  .reveal-line:nth-of-type(2) > span {
+    animation-delay: 0.13s;
+  }
+
+  .code-row {
+    display: flex;
+    width: max-content;
+    gap: 48px;
+    white-space: nowrap;
+  }
+  .code-marquee:hover .code-row,
+  .code-marquee:focus-within .code-row {
+    animation-play-state: paused;
+  }
+
+  .letter-sheet {
+    background: var(--color-paper);
+    border: 1px solid var(--color-rule);
+    border-radius: var(--radius-tight);
+  }
+  .email-rendered-body p {
+    margin-block: 0 1.15em;
+  }
+  .email-rendered-body p:last-child {
+    margin-bottom: 0;
+  }
+  .email-rendered-body b,
+  .email-rendered-body strong {
+    font-weight: 600;
+  }
+  .email-rendered-body ol,
+  .email-rendered-body ul {
+    margin-block: 0 1.15em;
+    padding-inline-start: 1.5em;
+  }
+  .email-rendered-body ul {
+    list-style: outside;
+  }
+  .email-rendered-body ol {
+    list-style: decimal;
+  }
+  .email-rendered-body li {
+    margin-block: 0.35em;
+  }
+  .email-rendered-body a {
+    color: var(--color-accent);
+    text-decoration: underline;
+  }
+  .letter-sheet .email-rendered-body > p:first-child {
+    font-size: var(--text-body);
+    margin-bottom: 1.6em;
+  }
+  .letter-sheet .email-rendered-body > p:nth-last-child(3) {
+    border-top: 1px solid var(--color-rule);
+    color: var(--color-muted);
+    margin-top: 2.5em;
+    margin-bottom: 0.9em;
+    padding-top: 2em;
+    font-size: 0.9375rem;
+  }
+  .letter-sheet .email-rendered-body > p:nth-last-child(2) {
+    font-family: var(--font-display);
+    margin-bottom: 0.2em;
+    font-size: 1.125rem;
+    font-weight: 600;
+  }
+  .letter-sheet .email-rendered-body > p:last-child {
+    color: var(--color-muted);
+    font-size: 0.9375rem;
+  }
 }
 
 @keyframes cursor-portrait-ripple {
@@ -377,6 +468,22 @@
   }
   to {
     transform: translate(-50%);
+  }
+}
+@keyframes marquee-drift-reverse {
+  0% {
+    transform: translate(-50%);
+  }
+  to {
+    transform: translate(0);
+  }
+}
+@keyframes reveal-rise {
+  0% {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
   }
 }
 @keyframes wish-drift-up {
@@ -408,7 +515,8 @@
   body[data-cursor="on"] {
     cursor: auto;
   }
-  .wish-track {
+  .wish-track,
+  .code-row {
     animation: none !important;
   }
 }

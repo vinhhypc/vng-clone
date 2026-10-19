@@ -6,15 +6,29 @@ export const sourceUrl = (path: string) => `${SOURCE_ORIGIN}${path}`;
 
 export const CONTEST_URL = `${SOURCE_ORIGIN}/ai-video-contest/`;
 
+export const ROUTES = {
+  survivor: "/survivor",
+  wishes: "/wish-wall",
+  moments: "/moments",
+  letters: "/VNG-Birthday-Email",
+  letter2026: "/VNG22-Letter",
+};
+
 export const NAV_ITEMS: { href: string; label: string; external?: boolean }[] = [
-  { href: sourceUrl("/survivor"), label: "Survivor" },
-  { href: sourceUrl("/wish-wall"), label: "Wishes" },
+  { href: ROUTES.survivor, label: "Survivor" },
+  { href: ROUTES.wishes, label: "Wishes" },
   { href: CONTEST_URL, label: "AI Video Contest", external: true },
-  { href: sourceUrl("/moments"), label: "Moments" },
-  { href: sourceUrl("/VNG-Birthday-Email"), label: "VNG's Birthday Letter" },
+  { href: ROUTES.moments, label: "Moments" },
+  { href: ROUTES.letters, label: "VNG's Birthday Letter" },
 ];
 
 const FILM_BASE = "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/vng22-film";
+
+/** 57 MB documentary — streamed from the source CDN rather than bundled. */
+export const SURVIVOR_FILM = {
+  src: `${FILM_BASE.replace("vng22-film", "survivor-film")}/vi.mp4`,
+  poster: `${ASSET}/film/survivor-poster.webp`,
+};
 
 export const FILM = {
   /** 52 MB feature film — streamed from the source CDN rather than bundled. */

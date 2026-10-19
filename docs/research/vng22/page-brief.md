@@ -7,9 +7,22 @@ Source is a Next.js + Tailwind v4 site. Tokens, keyframes and component classes 
 | Source | Local | Owner |
 | --- | --- | --- |
 | `/` | `/` | `src/app/page.tsx` → `src/components/sites/vng22/*` |
+| `/survivor` | `/survivor` | `src/app/survivor/page.tsx` → `src/components/sites/vng22/survivor-page/*` |
+| `/wish-wall` | `/wish-wall` | `src/app/wish-wall/page.tsx` → `wish-wall.tsx`, API in `src/app/api/{wishes,upload}` |
+| `/moments` | `/moments` | `src/app/moments/page.tsx` → `moments-gallery.tsx` |
+| `/VNG-Birthday-Email` | `/VNG-Birthday-Email` | `src/app/VNG-Birthday-Email/page.tsx` → `letters-timeline.tsx` |
+| `/VNG22-Letter` | `/VNG22-Letter` | `src/app/VNG22-Letter/page.tsx` |
 
-Out-of-scope destinations (link back to the source origin): `/survivor`, `/wish-wall`, `/moments`,
-`/VNG-Birthday-Email`, `/VNG22-Letter`, `/celebrate/*`, `/en`, `/ai-video-contest/*`.
+Out-of-scope destinations (link back to the source origin): `/celebrate/*`, `/survivor/<story>`, `/en/*`,
+`/ai-video-contest/*` (deferred by request).
+
+Subpage notes:
+- Header/cursor/grain live in the root layout; the active nav item gets `aria-current="page"` + `underline underline-offset-8`.
+- `/survivor` honor rail cards are a fixed 268px (source's width observer never attaches, same bug as the homepage stage).
+- `/wish-wall` reads all 263 approved wishes (snapshot) through local `/api/wishes` (seeded shuffle, search, cursor
+  paging). New submissions are accepted but held in server memory as "pending moderation" — there is no database.
+- `/moments` thumbnails are local; the 429 full-size lightbox images (~176 MB) stream from the source CDN.
+- The Survivor documentary (57 MB) streams from the source CDN.
 
 ## Page-wide
 - Fonts: Google Sans Flex 400/700 (display), SVN-Gilroy 400/500/700 (body), eyebrow uses the system mono stack.
