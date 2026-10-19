@@ -1,0 +1,1430 @@
+[
+ {
+  "url": "https://0909.vng.com.vn/video/hero-logo-still.webp",
+  "local": "/sites/vng22/video/hero-logo-still.webp",
+  "type": "image/webp",
+  "bytes": 10684
+ },
+ {
+  "url": "https://0909.vng.com.vn/fonts/google-sans-flex-400.woff2",
+  "local": "/sites/vng22/fonts/google-sans-flex-400.woff2",
+  "type": "font/woff2",
+  "bytes": 37740
+ },
+ {
+  "url": "https://0909.vng.com.vn/fonts/svn-gilroy-400.woff2",
+  "local": "/sites/vng22/fonts/svn-gilroy-400.woff2",
+  "type": "font/woff2",
+  "bytes": 47676
+ },
+ {
+  "url": "https://0909.vng.com.vn/fonts/google-sans-flex-700.woff2",
+  "local": "/sites/vng22/fonts/google-sans-flex-700.woff2",
+  "type": "font/woff2",
+  "bytes": 39468
+ },
+ {
+  "url": "https://0909.vng.com.vn/brand/logo-wordmark.webp",
+  "local": "/sites/vng22/brand/logo-wordmark.webp",
+  "type": "image/webp",
+  "bytes": 40596
+ },
+ {
+  "url": "https://0909.vng.com.vn/video/hero-poster.webp",
+  "local": "/sites/vng22/video/hero-poster.webp",
+  "type": "image/webp",
+  "bytes": 55284
+ },
+ {
+  "url": "https://0909.vng.com.vn/fonts/svn-gilroy-700.woff2",
+  "local": "/sites/vng22/fonts/svn-gilroy-700.woff2",
+  "type": "font/woff2",
+  "bytes": 50448
+ },
+ {
+  "url": "https://0909.vng.com.vn/founder/bg.webp",
+  "local": "/sites/vng22/founder/bg.webp",
+  "type": "image/webp",
+  "bytes": 74662
+ },
+ {
+  "url": "https://0909.vng.com.vn/fonts/svn-gilroy-500.woff2",
+  "local": "/sites/vng22/fonts/svn-gilroy-500.woff2",
+  "type": "font/woff2",
+  "bytes": 49556
+ },
+ {
+  "url": "https://0909.vng.com.vn/video/hero-logo.webp",
+  "local": "/sites/vng22/video/hero-logo.webp",
+  "type": "image/webp",
+  "bytes": 148478
+ },
+ {
+  "url": "https://0909.vng.com.vn/founder/minh.webp",
+  "local": "/sites/vng22/founder/minh.webp",
+  "type": "image/webp",
+  "bytes": 248308
+ },
+ {
+  "url": "https://0909.vng.com.vn/video/hero.webm",
+  "local": "/sites/vng22/video/hero.webm",
+  "type": "video/webm",
+  "bytes": 718881
+ },
+ {
+  "url": "https://0909.vng.com.vn/celebrate/ai-video-contest.webp",
+  "local": "/sites/vng22/celebrate/ai-video-contest.webp",
+  "type": "image/webp",
+  "bytes": 3342
+ },
+ {
+  "url": "https://0909.vng.com.vn/celebrate/hoi-thao.webp",
+  "local": "/sites/vng22/celebrate/hoi-thao.webp",
+  "type": "image/webp",
+  "bytes": 8968
+ },
+ {
+  "url": "https://0909.vng.com.vn/celebrate/22-dieu.webp",
+  "local": "/sites/vng22/celebrate/22-dieu.webp",
+  "type": "image/webp",
+  "bytes": 6356
+ },
+ {
+  "url": "https://0909.vng.com.vn/celebrate/run-your-22.webp",
+  "local": "/sites/vng22/celebrate/run-your-22.webp",
+  "type": "image/webp",
+  "bytes": 5078
+ },
+ {
+  "url": "https://0909.vng.com.vn/ripple/plate-d.webp",
+  "local": "/sites/vng22/ripple/plate-d.webp",
+  "type": "image/webp",
+  "bytes": 29104
+ },
+ {
+  "url": "https://0909.vng.com.vn/celebrate/esports.webp",
+  "local": "/sites/vng22/celebrate/esports.webp",
+  "type": "image/webp",
+  "bytes": 20770
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/ripple/plate-b.webp",
+  "local": "/sites/vng22/ripple/plate-b.webp",
+  "type": "image/webp",
+  "bytes": 62080
+ },
+ {
+  "url": "https://0909.vng.com.vn/ripple/plate-a.webp",
+  "local": "/sites/vng22/ripple/plate-a.webp",
+  "type": "image/webp",
+  "bytes": 55106
+ },
+ {
+  "url": "https://0909.vng.com.vn/ripple/plate-c.webp",
+  "local": "/sites/vng22/ripple/plate-c.webp",
+  "type": "image/webp",
+  "bytes": 85984
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/bg.png",
+  "local": "/sites/vng22/survivors/bg.png",
+  "type": "image/png",
+  "bytes": 476764
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/bg-highlight.png",
+  "local": "/sites/vng22/survivors/bg-highlight.png",
+  "type": "image/png",
+  "bytes": 1351128
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hannvn.webp",
+  "local": "/sites/vng22/survivors/hannvn.webp",
+  "type": "image/webp",
+  "bytes": 35628
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tecy.webp",
+  "local": "/sites/vng22/survivors/tecy.webp",
+  "type": "image/webp",
+  "bytes": 32188
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quocta.webp",
+  "local": "/sites/vng22/survivors/quocta.webp",
+  "type": "image/webp",
+  "bytes": 33308
+ },
+ {
+  "url": "https://0909.vng.com.vn/apple-icon.png",
+  "local": "/sites/vng22/apple-icon.png",
+  "type": "image/png",
+  "bytes": 26957
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trucnhp.webp",
+  "local": "/sites/vng22/survivors/trucnhp.webp",
+  "type": "image/webp",
+  "bytes": 38958
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hatm.webp",
+  "local": "/sites/vng22/survivors/hatm.webp",
+  "type": "image/webp",
+  "bytes": 38534
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhnt7.webp",
+  "local": "/sites/vng22/survivors/thanhnt7.webp",
+  "type": "image/webp",
+  "bytes": 37518
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huynhn.webp",
+  "local": "/sites/vng22/survivors/huynhn.webp",
+  "type": "image/webp",
+  "bytes": 35724
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/longvt.webp",
+  "local": "/sites/vng22/survivors/longvt.webp",
+  "type": "image/webp",
+  "bytes": 38786
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tacla.webp",
+  "local": "/sites/vng22/survivors/tacla.webp",
+  "type": "image/webp",
+  "bytes": 41912
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/luantq2.webp",
+  "local": "/sites/vng22/survivors/luantq2.webp",
+  "type": "image/webp",
+  "bytes": 33436
+ },
+ {
+  "url": "https://0909.vng.com.vn/icon.png",
+  "local": "/sites/vng22/icon.png",
+  "type": "image/png",
+  "bytes": 104073
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tuanna16.webp",
+  "local": "/sites/vng22/survivors/tuanna16.webp",
+  "type": "image/webp",
+  "bytes": 32998
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hienhtx.webp",
+  "local": "/sites/vng22/survivors/hienhtx.webp",
+  "type": "image/webp",
+  "bytes": 32664
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hiepdv2.webp",
+  "local": "/sites/vng22/survivors/hiepdv2.webp",
+  "type": "image/webp",
+  "bytes": 41288
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vun.webp",
+  "local": "/sites/vng22/survivors/vun.webp",
+  "type": "image/webp",
+  "bytes": 28484
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hungtg.webp",
+  "local": "/sites/vng22/survivors/hungtg.webp",
+  "type": "image/webp",
+  "bytes": 38494
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/bichptn.webp",
+  "local": "/sites/vng22/survivors/bichptn.webp",
+  "type": "image/webp",
+  "bytes": 46942
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/viettq2.webp",
+  "local": "/sites/vng22/survivors/viettq2.webp",
+  "type": "image/webp",
+  "bytes": 36712
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dieunc.webp",
+  "local": "/sites/vng22/survivors/dieunc.webp",
+  "type": "image/webp",
+  "bytes": 35956
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/locnt3.webp",
+  "local": "/sites/vng22/survivors/locnt3.webp",
+  "type": "image/webp",
+  "bytes": 34584
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trangnth.webp",
+  "local": "/sites/vng22/survivors/trangnth.webp",
+  "type": "image/webp",
+  "bytes": 40150
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tiennv.webp",
+  "local": "/sites/vng22/survivors/tiennv.webp",
+  "type": "image/webp",
+  "bytes": 36730
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tannd3.webp",
+  "local": "/sites/vng22/survivors/tannd3.webp",
+  "type": "image/webp",
+  "bytes": 33096
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/binhld.webp",
+  "local": "/sites/vng22/survivors/binhld.webp",
+  "type": "image/webp",
+  "bytes": 34316
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dith.webp",
+  "local": "/sites/vng22/survivors/dith.webp",
+  "type": "image/webp",
+  "bytes": 34464
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/locpd.webp",
+  "local": "/sites/vng22/survivors/locpd.webp",
+  "type": "image/webp",
+  "bytes": 35822
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thienht.webp",
+  "local": "/sites/vng22/survivors/thienht.webp",
+  "type": "image/webp",
+  "bytes": 40914
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/ngahtm2.webp",
+  "local": "/sites/vng22/survivors/ngahtm2.webp",
+  "type": "image/webp",
+  "bytes": 37918
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tubtc.webp",
+  "local": "/sites/vng22/survivors/tubtc.webp",
+  "type": "image/webp",
+  "bytes": 50218
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/sondtt.webp",
+  "local": "/sites/vng22/survivors/sondtt.webp",
+  "type": "image/webp",
+  "bytes": 33492
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hanhnv.webp",
+  "local": "/sites/vng22/survivors/hanhnv.webp",
+  "type": "image/webp",
+  "bytes": 45004
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dungttk.webp",
+  "local": "/sites/vng22/survivors/dungttk.webp",
+  "type": "image/webp",
+  "bytes": 45370
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hieppv.webp",
+  "local": "/sites/vng22/survivors/hieppv.webp",
+  "type": "image/webp",
+  "bytes": 44414
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quangvc.webp",
+  "local": "/sites/vng22/survivors/quangvc.webp",
+  "type": "image/webp",
+  "bytes": 37062
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/longnd4.webp",
+  "local": "/sites/vng22/survivors/longnd4.webp",
+  "type": "image/webp",
+  "bytes": 31430
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dungvt.webp",
+  "local": "/sites/vng22/survivors/dungvt.webp",
+  "type": "image/webp",
+  "bytes": 34162
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/datlc.webp",
+  "local": "/sites/vng22/survivors/datlc.webp",
+  "type": "image/webp",
+  "bytes": 33272
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhdd.webp",
+  "local": "/sites/vng22/survivors/anhdd.webp",
+  "type": "image/webp",
+  "bytes": 30514
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/baobd.webp",
+  "local": "/sites/vng22/survivors/baobd.webp",
+  "type": "image/webp",
+  "bytes": 38744
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/chinhkt.webp",
+  "local": "/sites/vng22/survivors/chinhkt.webp",
+  "type": "image/webp",
+  "bytes": 41528
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/taitk.webp",
+  "local": "/sites/vng22/survivors/taitk.webp",
+  "type": "image/webp",
+  "bytes": 35982
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhdnt.webp",
+  "local": "/sites/vng22/survivors/anhdnt.webp",
+  "type": "image/webp",
+  "bytes": 34680
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/yenbt.webp",
+  "local": "/sites/vng22/survivors/yenbt.webp",
+  "type": "image/webp",
+  "bytes": 50934
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/duongh.webp",
+  "local": "/sites/vng22/survivors/duongh.webp",
+  "type": "image/webp",
+  "bytes": 37780
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vinhlq3.webp",
+  "local": "/sites/vng22/survivors/vinhlq3.webp",
+  "type": "image/webp",
+  "bytes": 34462
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thaotxn.webp",
+  "local": "/sites/vng22/survivors/thaotxn.webp",
+  "type": "image/webp",
+  "bytes": 61978
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tamdc.webp",
+  "local": "/sites/vng22/survivors/tamdc.webp",
+  "type": "image/webp",
+  "bytes": 35802
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhpm.webp",
+  "local": "/sites/vng22/survivors/thanhpm.webp",
+  "type": "image/webp",
+  "bytes": 34548
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhdb.webp",
+  "local": "/sites/vng22/survivors/thanhdb.webp",
+  "type": "image/webp",
+  "bytes": 36718
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hoandn.webp",
+  "local": "/sites/vng22/survivors/hoandn.webp",
+  "type": "image/webp",
+  "bytes": 38262
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tamdt3.webp",
+  "local": "/sites/vng22/survivors/tamdt3.webp",
+  "type": "image/webp",
+  "bytes": 38192
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/khangnc.webp",
+  "local": "/sites/vng22/survivors/khangnc.webp",
+  "type": "image/webp",
+  "bytes": 36560
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/lannt3.webp",
+  "local": "/sites/vng22/survivors/lannt3.webp",
+  "type": "image/webp",
+  "bytes": 36292
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/khoidv.webp",
+  "local": "/sites/vng22/survivors/khoidv.webp",
+  "type": "image/webp",
+  "bytes": 37608
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phuvh.webp",
+  "local": "/sites/vng22/survivors/phuvh.webp",
+  "type": "image/webp",
+  "bytes": 38156
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/truongnx9.webp",
+  "local": "/sites/vng22/survivors/truongnx9.webp",
+  "type": "image/webp",
+  "bytes": 37086
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trieunk.webp",
+  "local": "/sites/vng22/survivors/trieunk.webp",
+  "type": "image/webp",
+  "bytes": 40132
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhlttb.webp",
+  "local": "/sites/vng22/survivors/anhlttb.webp",
+  "type": "image/webp",
+  "bytes": 62670
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thieuvt.webp",
+  "local": "/sites/vng22/survivors/thieuvt.webp",
+  "type": "image/webp",
+  "bytes": 33674
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hieutd2.webp",
+  "local": "/sites/vng22/survivors/hieutd2.webp",
+  "type": "image/webp",
+  "bytes": 38118
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dungdt4.webp",
+  "local": "/sites/vng22/survivors/dungdt4.webp",
+  "type": "image/webp",
+  "bytes": 38800
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/khanhnv5.webp",
+  "local": "/sites/vng22/survivors/khanhnv5.webp",
+  "type": "image/webp",
+  "bytes": 29812
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhnv2.webp",
+  "local": "/sites/vng22/survivors/thanhnv2.webp",
+  "type": "image/webp",
+  "bytes": 47536
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tungnt10.webp",
+  "local": "/sites/vng22/survivors/tungnt10.webp",
+  "type": "image/webp",
+  "bytes": 38926
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huult.webp",
+  "local": "/sites/vng22/survivors/huult.webp",
+  "type": "image/webp",
+  "bytes": 34740
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/namvh.webp",
+  "local": "/sites/vng22/survivors/namvh.webp",
+  "type": "image/webp",
+  "bytes": 45414
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trangdm.webp",
+  "local": "/sites/vng22/survivors/trangdm.webp",
+  "type": "image/webp",
+  "bytes": 40914
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/congnq.webp",
+  "local": "/sites/vng22/survivors/congnq.webp",
+  "type": "image/webp",
+  "bytes": 47630
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhdq2.webp",
+  "local": "/sites/vng22/survivors/anhdq2.webp",
+  "type": "image/webp",
+  "bytes": 37328
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/haitt5.webp",
+  "local": "/sites/vng22/survivors/haitt5.webp",
+  "type": "image/webp",
+  "bytes": 35634
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dund.webp",
+  "local": "/sites/vng22/survivors/dund.webp",
+  "type": "image/webp",
+  "bytes": 37982
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quangnt5.webp",
+  "local": "/sites/vng22/survivors/quangnt5.webp",
+  "type": "image/webp",
+  "bytes": 33480
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vinhtt4.webp",
+  "local": "/sites/vng22/survivors/vinhtt4.webp",
+  "type": "image/webp",
+  "bytes": 32500
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhnp2.webp",
+  "local": "/sites/vng22/survivors/anhnp2.webp",
+  "type": "image/webp",
+  "bytes": 47356
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hangnt5.webp",
+  "local": "/sites/vng22/survivors/hangnt5.webp",
+  "type": "image/webp",
+  "bytes": 46100
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hienlx.webp",
+  "local": "/sites/vng22/survivors/hienlx.webp",
+  "type": "image/webp",
+  "bytes": 38372
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/chiennd.webp",
+  "local": "/sites/vng22/survivors/chiennd.webp",
+  "type": "image/webp",
+  "bytes": 32778
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thuvt.webp",
+  "local": "/sites/vng22/survivors/thuvt.webp",
+  "type": "image/webp",
+  "bytes": 37026
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thinhlbq.webp",
+  "local": "/sites/vng22/survivors/thinhlbq.webp",
+  "type": "image/webp",
+  "bytes": 41704
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huongnm.webp",
+  "local": "/sites/vng22/survivors/huongnm.webp",
+  "type": "image/webp",
+  "bytes": 34704
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tientm6.webp",
+  "local": "/sites/vng22/survivors/tientm6.webp",
+  "type": "image/webp",
+  "bytes": 39134
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/atthawit.webp",
+  "local": "/sites/vng22/survivors/atthawit.webp",
+  "type": "image/webp",
+  "bytes": 33830
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thuannh.webp",
+  "local": "/sites/vng22/survivors/thuannh.webp",
+  "type": "image/webp",
+  "bytes": 22266
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thuannt.webp",
+  "local": "/sites/vng22/survivors/thuannt.webp",
+  "type": "image/webp",
+  "bytes": 36522
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huyencm.webp",
+  "local": "/sites/vng22/survivors/huyencm.webp",
+  "type": "image/webp",
+  "bytes": 46324
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huyenntn2.webp",
+  "local": "/sites/vng22/survivors/huyenntn2.webp",
+  "type": "image/webp",
+  "bytes": 32908
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hungvp2.webp",
+  "local": "/sites/vng22/survivors/hungvp2.webp",
+  "type": "image/webp",
+  "bytes": 38358
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/sangpc2.webp",
+  "local": "/sites/vng22/survivors/sangpc2.webp",
+  "type": "image/webp",
+  "bytes": 36608
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/gamtt.webp",
+  "local": "/sites/vng22/survivors/gamtt.webp",
+  "type": "image/webp",
+  "bytes": 37844
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thatnn.webp",
+  "local": "/sites/vng22/survivors/thatnn.webp",
+  "type": "image/webp",
+  "bytes": 39750
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/luanhm.webp",
+  "local": "/sites/vng22/survivors/luanhm.webp",
+  "type": "image/webp",
+  "bytes": 37992
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huypn2.webp",
+  "local": "/sites/vng22/survivors/huypn2.webp",
+  "type": "image/webp",
+  "bytes": 33778
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/binhttt.webp",
+  "local": "/sites/vng22/survivors/binhttt.webp",
+  "type": "image/webp",
+  "bytes": 38362
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nhidh.webp",
+  "local": "/sites/vng22/survivors/nhidh.webp",
+  "type": "image/webp",
+  "bytes": 49908
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/loilv.webp",
+  "local": "/sites/vng22/survivors/loilv.webp",
+  "type": "image/webp",
+  "bytes": 38112
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huongltx.webp",
+  "local": "/sites/vng22/survivors/huongltx.webp",
+  "type": "image/webp",
+  "bytes": 40014
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tutnt.webp",
+  "local": "/sites/vng22/survivors/tutnt.webp",
+  "type": "image/webp",
+  "bytes": 54684
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tientv.webp",
+  "local": "/sites/vng22/survivors/tientv.webp",
+  "type": "image/webp",
+  "bytes": 37004
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/chinm.webp",
+  "local": "/sites/vng22/survivors/chinm.webp",
+  "type": "image/webp",
+  "bytes": 41024
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/doanhvtm.webp",
+  "local": "/sites/vng22/survivors/doanhvtm.webp",
+  "type": "image/webp",
+  "bytes": 48396
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tuanpt2.webp",
+  "local": "/sites/vng22/survivors/tuanpt2.webp",
+  "type": "image/webp",
+  "bytes": 35848
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hoattn.webp",
+  "local": "/sites/vng22/survivors/hoattn.webp",
+  "type": "image/webp",
+  "bytes": 54034
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tuanna4.webp",
+  "local": "/sites/vng22/survivors/tuanna4.webp",
+  "type": "image/webp",
+  "bytes": 30546
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hopnh.webp",
+  "local": "/sites/vng22/survivors/hopnh.webp",
+  "type": "image/webp",
+  "bytes": 42808
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hant.webp",
+  "local": "/sites/vng22/survivors/hant.webp",
+  "type": "image/webp",
+  "bytes": 40614
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/locth2.webp",
+  "local": "/sites/vng22/survivors/locth2.webp",
+  "type": "image/webp",
+  "bytes": 40462
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quynp.webp",
+  "local": "/sites/vng22/survivors/quynp.webp",
+  "type": "image/webp",
+  "bytes": 35488
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trungnk.webp",
+  "local": "/sites/vng22/survivors/trungnk.webp",
+  "type": "image/webp",
+  "bytes": 39310
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vucm.webp",
+  "local": "/sites/vng22/survivors/vucm.webp",
+  "type": "image/webp",
+  "bytes": 37886
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thampth.webp",
+  "local": "/sites/vng22/survivors/thampth.webp",
+  "type": "image/webp",
+  "bytes": 35976
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hieumt.webp",
+  "local": "/sites/vng22/survivors/hieumt.webp",
+  "type": "image/webp",
+  "bytes": 36080
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huyenlt.webp",
+  "local": "/sites/vng22/survivors/huyenlt.webp",
+  "type": "image/webp",
+  "bytes": 48840
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vult.webp",
+  "local": "/sites/vng22/survivors/vult.webp",
+  "type": "image/webp",
+  "bytes": 37892
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nhahtt.webp",
+  "local": "/sites/vng22/survivors/nhahtt.webp",
+  "type": "image/webp",
+  "bytes": 51430
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tuanpm2.webp",
+  "local": "/sites/vng22/survivors/tuanpm2.webp",
+  "type": "image/webp",
+  "bytes": 29194
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/haibt.webp",
+  "local": "/sites/vng22/survivors/haibt.webp",
+  "type": "image/webp",
+  "bytes": 44598
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tranglt.webp",
+  "local": "/sites/vng22/survivors/tranglt.webp",
+  "type": "image/webp",
+  "bytes": 38008
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trangdtt.webp",
+  "local": "/sites/vng22/survivors/trangdtt.webp",
+  "type": "image/webp",
+  "bytes": 37798
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hiepnq.webp",
+  "local": "/sites/vng22/survivors/hiepnq.webp",
+  "type": "image/webp",
+  "bytes": 30882
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/chanhnc.webp",
+  "local": "/sites/vng22/survivors/chanhnc.webp",
+  "type": "image/webp",
+  "bytes": 29790
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/lamnq.webp",
+  "local": "/sites/vng22/survivors/lamnq.webp",
+  "type": "image/webp",
+  "bytes": 35502
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/sinhtm.webp",
+  "local": "/sites/vng22/survivors/sinhtm.webp",
+  "type": "image/webp",
+  "bytes": 40722
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tampn.webp",
+  "local": "/sites/vng22/survivors/tampn.webp",
+  "type": "image/webp",
+  "bytes": 38090
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/chauntn.webp",
+  "local": "/sites/vng22/survivors/chauntn.webp",
+  "type": "image/webp",
+  "bytes": 51020
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/lapdc.webp",
+  "local": "/sites/vng22/survivors/lapdc.webp",
+  "type": "image/webp",
+  "bytes": 38054
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/kimbt.webp",
+  "local": "/sites/vng22/survivors/kimbt.webp",
+  "type": "image/webp",
+  "bytes": 48980
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thinhhq.webp",
+  "local": "/sites/vng22/survivors/thinhhq.webp",
+  "type": "image/webp",
+  "bytes": 36508
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/oanhptk.webp",
+  "local": "/sites/vng22/survivors/oanhptk.webp",
+  "type": "image/webp",
+  "bytes": 49046
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trangdtm.webp",
+  "local": "/sites/vng22/survivors/trangdtm.webp",
+  "type": "image/webp",
+  "bytes": 36050
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tanln.webp",
+  "local": "/sites/vng22/survivors/tanln.webp",
+  "type": "image/webp",
+  "bytes": 29584
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hengmx.webp",
+  "local": "/sites/vng22/survivors/hengmx.webp",
+  "type": "image/webp",
+  "bytes": 31084
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thudta2.webp",
+  "local": "/sites/vng22/survivors/thudta2.webp",
+  "type": "image/webp",
+  "bytes": 37474
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nhungvth.webp",
+  "local": "/sites/vng22/survivors/nhungvth.webp",
+  "type": "image/webp",
+  "bytes": 42922
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhnt3.webp",
+  "local": "/sites/vng22/survivors/thanhnt3.webp",
+  "type": "image/webp",
+  "bytes": 42514
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thaonh.webp",
+  "local": "/sites/vng22/survivors/thaonh.webp",
+  "type": "image/webp",
+  "bytes": 46424
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/aihx.webp",
+  "local": "/sites/vng22/survivors/aihx.webp",
+  "type": "image/webp",
+  "bytes": 37082
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thanhvb.webp",
+  "local": "/sites/vng22/survivors/thanhvb.webp",
+  "type": "image/webp",
+  "bytes": 39786
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huongltt.webp",
+  "local": "/sites/vng22/survivors/huongltt.webp",
+  "type": "image/webp",
+  "bytes": 50430
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hoaitt.webp",
+  "local": "/sites/vng22/survivors/hoaitt.webp",
+  "type": "image/webp",
+  "bytes": 38062
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/minhnd.webp",
+  "local": "/sites/vng22/survivors/minhnd.webp",
+  "type": "image/webp",
+  "bytes": 33834
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/logo-survivor.webp",
+  "local": "/sites/vng22/survivors/logo-survivor.webp",
+  "type": "image/webp",
+  "bytes": 13232
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hiennt4.webp",
+  "local": "/sites/vng22/survivors/hiennt4.webp",
+  "type": "image/webp",
+  "bytes": 33718
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nitng.webp",
+  "local": "/sites/vng22/survivors/nitng.webp",
+  "type": "image/webp",
+  "bytes": 35832
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/khoahd2.webp",
+  "local": "/sites/vng22/survivors/khoahd2.webp",
+  "type": "image/webp",
+  "bytes": 34822
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/anhh.webp",
+  "local": "/sites/vng22/survivors/anhh.webp",
+  "type": "image/webp",
+  "bytes": 44758
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tienntx.webp",
+  "local": "/sites/vng22/survivors/tienntx.webp",
+  "type": "image/webp",
+  "bytes": 43010
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/loandt.webp",
+  "local": "/sites/vng22/survivors/loandt.webp",
+  "type": "image/webp",
+  "bytes": 44530
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quitlh.webp",
+  "local": "/sites/vng22/survivors/quitlh.webp",
+  "type": "image/webp",
+  "bytes": 33220
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/loanlh.webp",
+  "local": "/sites/vng22/survivors/loanlh.webp",
+  "type": "image/webp",
+  "bytes": 56902
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dungnlp.webp",
+  "local": "/sites/vng22/survivors/dungnlp.webp",
+  "type": "image/webp",
+  "bytes": 52146
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trungnv.webp",
+  "local": "/sites/vng22/survivors/trungnv.webp",
+  "type": "image/webp",
+  "bytes": 36084
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tuanntt.webp",
+  "local": "/sites/vng22/survivors/tuanntt.webp",
+  "type": "image/webp",
+  "bytes": 29354
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hungnm4.webp",
+  "local": "/sites/vng22/survivors/hungnm4.webp",
+  "type": "image/webp",
+  "bytes": 43266
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thaipm.webp",
+  "local": "/sites/vng22/survivors/thaipm.webp",
+  "type": "image/webp",
+  "bytes": 31526
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huypva.webp",
+  "local": "/sites/vng22/survivors/huypva.webp",
+  "type": "image/webp",
+  "bytes": 30330
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/minhlth.webp",
+  "local": "/sites/vng22/survivors/minhlth.webp",
+  "type": "image/webp",
+  "bytes": 36436
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nghiant2.webp",
+  "local": "/sites/vng22/survivors/nghiant2.webp",
+  "type": "image/webp",
+  "bytes": 33660
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nhungpth.webp",
+  "local": "/sites/vng22/survivors/nhungpth.webp",
+  "type": "image/webp",
+  "bytes": 36446
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phucph2.webp",
+  "local": "/sites/vng22/survivors/phucph2.webp",
+  "type": "image/webp",
+  "bytes": 38922
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nguyettt2.webp",
+  "local": "/sites/vng22/survivors/nguyettt2.webp",
+  "type": "image/webp",
+  "bytes": 45698
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/bonpv.webp",
+  "local": "/sites/vng22/survivors/bonpv.webp",
+  "type": "image/webp",
+  "bytes": 35798
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hienntv.webp",
+  "local": "/sites/vng22/survivors/hienntv.webp",
+  "type": "image/webp",
+  "bytes": 51502
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phuongtt.webp",
+  "local": "/sites/vng22/survivors/phuongtt.webp",
+  "type": "image/webp",
+  "bytes": 36862
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hanght2.webp",
+  "local": "/sites/vng22/survivors/hanght2.webp",
+  "type": "image/webp",
+  "bytes": 33586
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/ngoctdn.webp",
+  "local": "/sites/vng22/survivors/ngoctdn.webp",
+  "type": "image/webp",
+  "bytes": 34956
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hieptt.webp",
+  "local": "/sites/vng22/survivors/hieptt.webp",
+  "type": "image/webp",
+  "bytes": 37550
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hieutv.webp",
+  "local": "/sites/vng22/survivors/hieutv.webp",
+  "type": "image/webp",
+  "bytes": 37908
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/vubl.webp",
+  "local": "/sites/vng22/survivors/vubl.webp",
+  "type": "image/webp",
+  "bytes": 30508
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/quangtm3.webp",
+  "local": "/sites/vng22/survivors/quangtm3.webp",
+  "type": "image/webp",
+  "bytes": 48488
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/luatdt.webp",
+  "local": "/sites/vng22/survivors/luatdt.webp",
+  "type": "image/webp",
+  "bytes": 39828
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phuongnv3.webp",
+  "local": "/sites/vng22/survivors/phuongnv3.webp",
+  "type": "image/webp",
+  "bytes": 52224
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/danhtnc.webp",
+  "local": "/sites/vng22/survivors/danhtnc.webp",
+  "type": "image/webp",
+  "bytes": 39682
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hattv.webp",
+  "local": "/sites/vng22/survivors/hattv.webp",
+  "type": "image/webp",
+  "bytes": 49068
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/nadt2.webp",
+  "local": "/sites/vng22/survivors/nadt2.webp",
+  "type": "image/webp",
+  "bytes": 59256
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/trihv.webp",
+  "local": "/sites/vng22/survivors/trihv.webp",
+  "type": "image/webp",
+  "bytes": 29906
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/longtb.webp",
+  "local": "/sites/vng22/survivors/longtb.webp",
+  "type": "image/webp",
+  "bytes": 43564
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phatlt2.webp",
+  "local": "/sites/vng22/survivors/phatlt2.webp",
+  "type": "image/webp",
+  "bytes": 36770
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/thuttm2.webp",
+  "local": "/sites/vng22/survivors/thuttm2.webp",
+  "type": "image/webp",
+  "bytes": 37092
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/haipnh.webp",
+  "local": "/sites/vng22/survivors/haipnh.webp",
+  "type": "image/webp",
+  "bytes": 37976
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/huynhttt.webp",
+  "local": "/sites/vng22/survivors/huynhttt.webp",
+  "type": "image/webp",
+  "bytes": 37928
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/hoangntm.webp",
+  "local": "/sites/vng22/survivors/hoangntm.webp",
+  "type": "image/webp",
+  "bytes": 41658
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/tienct.webp",
+  "local": "/sites/vng22/survivors/tienct.webp",
+  "type": "image/webp",
+  "bytes": 47386
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/khoatd2.webp",
+  "local": "/sites/vng22/survivors/khoatd2.webp",
+  "type": "image/webp",
+  "bytes": 33992
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/phuongdtl.webp",
+  "local": "/sites/vng22/survivors/phuongdtl.webp",
+  "type": "image/webp",
+  "bytes": 38528
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/dieunq.webp",
+  "local": "/sites/vng22/survivors/dieunq.webp",
+  "type": "image/webp",
+  "bytes": 35872
+ },
+ {
+  "url": "https://0909.vng.com.vn/survivors/danhnt.webp",
+  "local": "/sites/vng22/survivors/danhnt.webp",
+  "type": "image/webp",
+  "bytes": 51570
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/316.webp",
+  "local": "/sites/vng22/moments/316.webp",
+  "type": "image/webp",
+  "bytes": 19222
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/341.webp",
+  "local": "/sites/vng22/moments/341.webp",
+  "type": "image/webp",
+  "bytes": 27068
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/376.webp",
+  "local": "/sites/vng22/moments/376.webp",
+  "type": "image/webp",
+  "bytes": 30544
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/158.webp",
+  "local": "/sites/vng22/moments/158.webp",
+  "type": "image/webp",
+  "bytes": 35256
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/37.webp",
+  "local": "/sites/vng22/moments/37.webp",
+  "type": "image/webp",
+  "bytes": 35750
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/60.webp",
+  "local": "/sites/vng22/moments/60.webp",
+  "type": "image/webp",
+  "bytes": 23284
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/07.webp",
+  "local": "/sites/vng22/moments/07.webp",
+  "type": "image/webp",
+  "bytes": 53470
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/333.webp",
+  "local": "/sites/vng22/moments/333.webp",
+  "type": "image/webp",
+  "bytes": 28760
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/394.webp",
+  "local": "/sites/vng22/moments/394.webp",
+  "type": "image/webp",
+  "bytes": 48862
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/vng22-film/poster-vi.webp",
+  "local": "/sites/vng22/film/poster-vi.webp",
+  "type": "image/webp",
+  "bytes": 57712
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/moments/thumb/191.webp",
+  "local": "/sites/vng22/moments/191.webp",
+  "type": "image/webp",
+  "bytes": 50666
+ },
+ {
+  "url": "https://cpzqnhw1cy9ug4hx.public.blob.vercel-storage.com/vng22-film/loop-vi.mp4",
+  "local": "/sites/vng22/film/loop-vi.mp4",
+  "type": "video/mp4",
+  "bytes": 1238194
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/1_22_mot_starter_vo_han_chieu_40a9fbe66c.jpg",
+  "local": "/sites/vng22/contest/1-22-mot-starter-vo-han-chieu.jpg",
+  "type": "image/jpeg",
+  "bytes": 361012
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/thumbnail_Truc_Huynh_Ngo_Trung_48329ab1d3.jpg",
+  "local": "/sites/vng22/contest/vng-say-22.jpg",
+  "type": "image/jpeg",
+  "bytes": 466573
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/ai_ai_day_title_v3_Kieu_Dong_Nhu_76516ad8f4.png",
+  "local": "/sites/vng22/contest/ai-ai-day.png",
+  "type": "image/png",
+  "bytes": 681093
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/Thumbnail_Tam_Nguyen_Thi_Minh_2a854aefa2.jpg",
+  "local": "/sites/vng22/contest/deadline-run.jpg",
+  "type": "image/jpeg",
+  "bytes": 474424
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/thumbnail_Huyen_Tran_Thi_Le_d3ad3ffe09.png",
+  "local": "/sites/vng22/contest/run-your-distance.png",
+  "type": "image/png",
+  "bytes": 784576
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/Chat_GPT_Image_09_18_32_6_thg_9_2026_Hoa_Bui_Thi_Quynh_ecdb5cffc3.png",
+  "local": "/sites/vng22/contest/5-giai-doan-toi-va-ai.png",
+  "type": "image/png",
+  "bytes": 547035
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/4_Dang_Nguyen_Hai_68ba5da656.png",
+  "local": "/sites/vng22/contest/no-final-boss.png",
+  "type": "image/png",
+  "bytes": 673861
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/PROMPTMATES_AIVIDEOCONTEST_VNG_22_Van_Ho_Thi_Thao_ef1f64f5af.png",
+  "local": "/sites/vng22/contest/promptmates.png",
+  "type": "image/png",
+  "bytes": 765939
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/Thumbnail_Anh_Vu_Duc_b18834b6ee.png",
+  "local": "/sites/vng22/contest/me-an-com-chua.png",
+  "type": "image/png",
+  "bytes": 641568
+ },
+ {
+  "url": "https://statics-green-node.vcdn.com.vn/THUMB_Binh_Tran_Hoa_c64a7b6cd3.png",
+  "local": "/sites/vng22/contest/guneverse-x-human2.png",
+  "type": "image/png",
+  "bytes": 820440
+ }
+]

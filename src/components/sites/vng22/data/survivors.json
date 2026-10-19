@@ -1,0 +1,1332 @@
+[
+ {
+  "username": "trucnhp",
+  "name": "Nguyễn Huỳnh Phương Trúc",
+  "image": "/sites/vng22/survivors/trucnhp.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hatm",
+  "name": "Thang Mỹ Hà",
+  "image": "/sites/vng22/survivors/hatm.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "hannvn",
+  "name": "Nguyễn Vũ Ngọc Hân",
+  "image": "/sites/vng22/survivors/hannvn.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "longvt",
+  "name": "Vũ Thành Long",
+  "image": "/sites/vng22/survivors/longvt.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "huynhn",
+  "name": "Nguyễn Huỳnh",
+  "image": "/sites/vng22/survivors/huynhn.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tecy",
+  "name": "Chen Yu Te",
+  "image": "/sites/vng22/survivors/tecy.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tacla",
+  "name": "Lầm A Tắc",
+  "image": "/sites/vng22/survivors/tacla.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "thanhnt7",
+  "name": "Nguyễn Trần Thành",
+  "image": "/sites/vng22/survivors/thanhnt7.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "luantq2",
+  "name": "Thiều Quang Luân",
+  "image": "/sites/vng22/survivors/luantq2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "quocta",
+  "name": "Trần Anh Quốc",
+  "image": "/sites/vng22/survivors/quocta.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "bichptn",
+  "name": "Phú Thị Ngọc Bích",
+  "image": "/sites/vng22/survivors/bichptn.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "tuanna16",
+  "name": "Nguyễn Anh Tuấn",
+  "image": "/sites/vng22/survivors/tuanna16.webp",
+  "tenure": 10,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "trangnth",
+  "name": "Nguyễn Thị Hồng Trang",
+  "image": "/sites/vng22/survivors/trangnth.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "maudt",
+  "name": "Dương Tuấn Mậu",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "viettq2",
+  "name": "Tạ Quang Việt",
+  "image": "/sites/vng22/survivors/viettq2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "locnt3",
+  "name": "Nguyễn Thanh Lộc",
+  "image": "/sites/vng22/survivors/locnt3.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "hiepdv2",
+  "name": "Đặng Vũ Hiệp",
+  "image": "/sites/vng22/survivors/hiepdv2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "dieunc",
+  "name": "Nguyễn Cẩm Diệu",
+  "image": "/sites/vng22/survivors/dieunc.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "hienhtx",
+  "name": "Huỳnh Thị Xuân Hiền",
+  "image": "/sites/vng22/survivors/hienhtx.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "tiennv",
+  "name": "Nguyễn Vũ Tiến",
+  "image": "/sites/vng22/survivors/tiennv.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "hungtg",
+  "name": "Trần Gia Hưng",
+  "image": "/sites/vng22/survivors/hungtg.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "vun",
+  "name": "Nguyễn Vũ",
+  "image": "/sites/vng22/survivors/vun.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "thienht",
+  "name": "Huỳnh Thị Thiện",
+  "image": "/sites/vng22/survivors/thienht.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "quangvc",
+  "name": "Vương Chí Quang",
+  "image": "/sites/vng22/survivors/quangvc.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "tannd3",
+  "name": "Nguyễn Dư Tân",
+  "image": "/sites/vng22/survivors/tannd3.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "ngahtm2",
+  "name": "Huỳnh Thị Mỹ Nga",
+  "image": "/sites/vng22/survivors/ngahtm2.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "binhld",
+  "name": "Lê Đình Bình",
+  "image": "/sites/vng22/survivors/binhld.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "locpd",
+  "name": "Phạm Đắc Lộc",
+  "image": "/sites/vng22/survivors/locpd.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "sondtt",
+  "name": "Đặng Trần Thái Sơn",
+  "image": "/sites/vng22/survivors/sondtt.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "tubtc",
+  "name": "Bùi Thị Cẩm Tú",
+  "image": "/sites/vng22/survivors/tubtc.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "dungttk",
+  "name": "Trương Thị Kim Dung",
+  "image": "/sites/vng22/survivors/dungttk.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "dith",
+  "name": "Tần Huệ Di",
+  "image": "/sites/vng22/survivors/dith.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hieppv",
+  "name": "Phan Văn Hiệp",
+  "image": "/sites/vng22/survivors/hieppv.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "hanhnv",
+  "name": "Nguyễn Văn Hạnh",
+  "image": "/sites/vng22/survivors/hanhnv.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "anhdd",
+  "name": "Doãn Đức Anh",
+  "image": "/sites/vng22/survivors/anhdd.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "longnd4",
+  "name": "Nguyễn Đình Long",
+  "image": "/sites/vng22/survivors/longnd4.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "taitk",
+  "name": "Trương Kiến Tài",
+  "image": "/sites/vng22/survivors/taitk.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thaotxn",
+  "name": "Trần Xuân Ngọc Thảo",
+  "image": "/sites/vng22/survivors/thaotxn.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "vinhlq3",
+  "name": "Lương Quốc Vinh",
+  "image": "/sites/vng22/survivors/vinhlq3.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "anhdnt",
+  "name": "Đặng Ngọc Trang Anh",
+  "image": "/sites/vng22/survivors/anhdnt.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "chinhkt",
+  "name": "Kỷ Trọng Chính",
+  "image": "/sites/vng22/survivors/chinhkt.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "yenbt",
+  "name": "Bùi Thị Yến",
+  "image": "/sites/vng22/survivors/yenbt.webp",
+  "tenure": 10,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "baobd",
+  "name": "Bùi Đình Bảo",
+  "image": "/sites/vng22/survivors/baobd.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "duongh",
+  "name": "Hồ Dương",
+  "image": "/sites/vng22/survivors/duongh.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "dungvt",
+  "name": "Vũ Tuấn Dũng",
+  "image": "/sites/vng22/survivors/dungvt.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "datlc",
+  "name": "Lư Chí Đạt",
+  "image": "/sites/vng22/survivors/datlc.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tamdt3",
+  "name": "Đỗ Thanh Tâm",
+  "image": "/sites/vng22/survivors/tamdt3.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "anhlttb",
+  "name": "Lê Tăng Thụy Bảo Anh",
+  "image": "/sites/vng22/survivors/anhlttb.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "tamdc",
+  "name": "Dương Chí Tâm",
+  "image": "/sites/vng22/survivors/tamdc.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "truongnx9",
+  "name": "Nguyễn Xuân Trường",
+  "image": "/sites/vng22/survivors/truongnx9.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "khoidv",
+  "name": "Đặng Vũ Khôi",
+  "image": "/sites/vng22/survivors/khoidv.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "phuvh",
+  "name": "Vũ Hồng Phú",
+  "image": "/sites/vng22/survivors/phuvh.webp",
+  "tenure": 10,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "thanhpm",
+  "name": "Phạm Minh Thành",
+  "image": "/sites/vng22/survivors/thanhpm.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "thanhdb",
+  "name": "Diệp Bội Thanh",
+  "image": "/sites/vng22/survivors/thanhdb.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "khangnc",
+  "name": "Nguyễn Chí Khang",
+  "image": "/sites/vng22/survivors/khangnc.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "trieunk",
+  "name": "Nguyễn Khắc Triều",
+  "image": "/sites/vng22/survivors/trieunk.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hoandn",
+  "name": "Đỗ Ngọc Hoàn",
+  "image": "/sites/vng22/survivors/hoandn.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "lannt3",
+  "name": "Nguyễn Tường Lân",
+  "image": "/sites/vng22/survivors/lannt3.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tungnt10",
+  "name": "Nguyễn Tiến Tùng",
+  "image": "/sites/vng22/survivors/tungnt10.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thieuvt",
+  "name": "Võ Tiến Thiều",
+  "image": "/sites/vng22/survivors/thieuvt.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "trangdm",
+  "name": "Đặng Minh Trạng",
+  "image": "/sites/vng22/survivors/trangdm.webp",
+  "tenure": 10,
+  "bu": "Data Center - STT"
+ },
+ {
+  "username": "namvh",
+  "name": "Võ Hoài Nam",
+  "image": "/sites/vng22/survivors/namvh.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "khanhnv5",
+  "name": "Ngô Vi Khánh",
+  "image": "/sites/vng22/survivors/khanhnv5.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huult",
+  "name": "Lương Trọng Hữu",
+  "image": "/sites/vng22/survivors/huult.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "dungdt4",
+  "name": "Đào Trung Dũng",
+  "image": "/sites/vng22/survivors/dungdt4.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "thanhda",
+  "name": "Đỗ Ánh Thanh",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "tamntt4",
+  "name": "Nguyễn Thị Thanh Tâm",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "congnq",
+  "name": "Nguyễn Quốc Công",
+  "image": "/sites/vng22/survivors/congnq.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hieutd2",
+  "name": "Trần Duy Hiếu",
+  "image": "/sites/vng22/survivors/hieutd2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thanhnv2",
+  "name": "Nguyễn Vũ Thành",
+  "image": "/sites/vng22/survivors/thanhnv2.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "hienlx",
+  "name": "Lê Xuân Hiển",
+  "image": "/sites/vng22/survivors/hienlx.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "dund",
+  "name": "Ngô Đình Dũ",
+  "image": "/sites/vng22/survivors/dund.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "anhdq2",
+  "name": "Đoàn Quốc Anh",
+  "image": "/sites/vng22/survivors/anhdq2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thinhlbq",
+  "name": "Lê Bá Quốc Thịnh",
+  "image": "/sites/vng22/survivors/thinhlbq.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "haitt5",
+  "name": "Trần Thanh Hải",
+  "image": "/sites/vng22/survivors/haitt5.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "huongnm",
+  "name": "Nguyễn Minh Hương",
+  "image": "/sites/vng22/survivors/huongnm.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thuvt",
+  "name": "Võ Trọng Thư",
+  "image": "/sites/vng22/survivors/thuvt.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "anhnp2",
+  "name": "Nguyễn Phượng Anh",
+  "image": "/sites/vng22/survivors/anhnp2.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "chiennd",
+  "name": "Nguyễn Đăng Chiến",
+  "image": "/sites/vng22/survivors/chiennd.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "vinhtt4",
+  "name": "Tăng Tiến Vinh",
+  "image": "/sites/vng22/survivors/vinhtt4.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "hangnt5",
+  "name": "Nguyễn Thị Hằng",
+  "image": "/sites/vng22/survivors/hangnt5.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "quangnt5",
+  "name": "Nguyễn Thành Quang",
+  "image": "/sites/vng22/survivors/quangnt5.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huyenntn2",
+  "name": "Nguyễn Thị Ngọc Huyền",
+  "image": "/sites/vng22/survivors/huyenntn2.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huynhbv",
+  "name": "Bùi Văn Huỳnh",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "tientm6",
+  "name": "Trịnh Mỹ Tiên",
+  "image": "/sites/vng22/survivors/tientm6.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "atthawit",
+  "name": "Atthawit Rungsikun",
+  "image": "/sites/vng22/survivors/atthawit.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "luanhm",
+  "name": "Hà Minh Luân",
+  "image": "/sites/vng22/survivors/luanhm.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "thuannh",
+  "name": "Nguyễn Hữu Thuận",
+  "image": "/sites/vng22/survivors/thuannh.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "gamtt",
+  "name": "Trần Thị Gấm",
+  "image": "/sites/vng22/survivors/gamtt.webp",
+  "tenure": 10,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "hungvp2",
+  "name": "Võ Phú Hưng",
+  "image": "/sites/vng22/survivors/hungvp2.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "sangpc2",
+  "name": "Phan Công Sang",
+  "image": "/sites/vng22/survivors/sangpc2.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huyencm",
+  "name": "Cao Mỹ Huyền",
+  "image": "/sites/vng22/survivors/huyencm.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "thuannt",
+  "name": "Nguyễn Thanh Thuận",
+  "image": "/sites/vng22/survivors/thuannt.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "thatnn",
+  "name": "Nguyễn Ngọc Thật",
+  "image": "/sites/vng22/survivors/thatnn.webp",
+  "tenure": 10,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "chinm",
+  "name": "Nguyễn Minh Chí",
+  "image": "/sites/vng22/survivors/chinm.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "tutnt",
+  "name": "Trương Nguyễn Thanh Tú",
+  "image": "/sites/vng22/survivors/tutnt.webp",
+  "tenure": 10,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "huypn2",
+  "name": "Phạm Ngọc Huy",
+  "image": "/sites/vng22/survivors/huypn2.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "hoattn",
+  "name": "Trần Thị Như Hoa",
+  "image": "/sites/vng22/survivors/hoattn.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "binhttt",
+  "name": "Trương Thị Thanh Bình",
+  "image": "/sites/vng22/survivors/binhttt.webp",
+  "tenure": 10,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "tuanpt2",
+  "name": "Phạm Thành Tuấn",
+  "image": "/sites/vng22/survivors/tuanpt2.webp",
+  "tenure": 10,
+  "bu": "Zalo"
+ },
+ {
+  "username": "nhidh",
+  "name": "Đặng Hạnh Nhi",
+  "image": "/sites/vng22/survivors/nhidh.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tientv",
+  "name": "Trần Văn Tiến",
+  "image": "/sites/vng22/survivors/tientv.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "loilv",
+  "name": "Lê Văn Lợi",
+  "image": "/sites/vng22/survivors/loilv.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "doanhvtm",
+  "name": "Võ Thị Mỹ Doanh",
+  "image": "/sites/vng22/survivors/doanhvtm.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "danghh",
+  "name": "Huỳnh Hải Đăng",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 10,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huongltx",
+  "name": "Lê Thị Xuân Hương",
+  "image": "/sites/vng22/survivors/huongltx.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "huyenlt",
+  "name": "Lâm Thị Huyền",
+  "image": "/sites/vng22/survivors/huyenlt.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "locth2",
+  "name": "Trần Hữu Lộc",
+  "image": "/sites/vng22/survivors/locth2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hopnh",
+  "name": "Nguyễn Hòa Hợp",
+  "image": "/sites/vng22/survivors/hopnh.webp",
+  "tenure": 20,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "tuanna4",
+  "name": "Nguyễn Anh Tuấn",
+  "image": "/sites/vng22/survivors/tuanna4.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "vult",
+  "name": "Lê Tài Vũ",
+  "image": "/sites/vng22/survivors/vult.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "nhahtt",
+  "name": "Hồ Thị Thanh Nhã",
+  "image": "/sites/vng22/survivors/nhahtt.webp",
+  "tenure": 20,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "hant",
+  "name": "Nguyễn Thị Hà",
+  "image": "/sites/vng22/survivors/hant.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "hieumt",
+  "name": "Mai Trung Hiếu",
+  "image": "/sites/vng22/survivors/hieumt.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "quynp",
+  "name": "Nguyễn Phú Quý",
+  "image": "/sites/vng22/survivors/quynp.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "thampth",
+  "name": "Phan Thị Hồng Thắm",
+  "image": "/sites/vng22/survivors/thampth.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "trungnk",
+  "name": "Nguyễn Khánh Trung",
+  "image": "/sites/vng22/survivors/trungnk.webp",
+  "tenure": 20,
+  "bu": "SMT"
+ },
+ {
+  "username": "vucm",
+  "name": "Chu Minh Vũ",
+  "image": "/sites/vng22/survivors/vucm.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "trangdtt",
+  "name": "Đỗ Thị Thu Trang",
+  "image": "/sites/vng22/survivors/trangdtt.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "tranglt",
+  "name": "Lê Thu Trang",
+  "image": "/sites/vng22/survivors/tranglt.webp",
+  "tenure": 20,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "tuanpm2",
+  "name": "Phạm Minh Tuấn",
+  "image": "/sites/vng22/survivors/tuanpm2.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "kimbt",
+  "name": "Bùi Thiên Kim",
+  "image": "/sites/vng22/survivors/kimbt.webp",
+  "tenure": 20,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "haibt",
+  "name": "Bùi Tuấn Hải",
+  "image": "/sites/vng22/survivors/haibt.webp",
+  "tenure": 20,
+  "bu": "Zalo"
+ },
+ {
+  "username": "lapdc",
+  "name": "Đặng Công Lập",
+  "image": "/sites/vng22/survivors/lapdc.webp",
+  "tenure": 20,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "hiepnq",
+  "name": "Nguyễn Quý Hiệp",
+  "image": "/sites/vng22/survivors/hiepnq.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "chanhnc",
+  "name": "Nguyễn Công Chánh",
+  "image": "/sites/vng22/survivors/chanhnc.webp",
+  "tenure": 20,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "chauntn",
+  "name": "Nguyễn Thị Ngọc Châu",
+  "image": "/sites/vng22/survivors/chauntn.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "lamnq",
+  "name": "Nguyễn Quang Lâm",
+  "image": "/sites/vng22/survivors/lamnq.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "sinhtm",
+  "name": "Tôn Minh Sinh",
+  "image": "/sites/vng22/survivors/sinhtm.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "tampn",
+  "name": "Phạm Ngọc Tám",
+  "image": "/sites/vng22/survivors/tampn.webp",
+  "tenure": 20,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "tanln",
+  "name": "Lê Ngọc Tân",
+  "image": "/sites/vng22/survivors/tanln.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "trangdtm",
+  "name": "Đoàn Thị Minh Trang",
+  "image": "/sites/vng22/survivors/trangdtm.webp",
+  "tenure": 20,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "oanhptk",
+  "name": "Phạm Thị Kiều Oanh",
+  "image": "/sites/vng22/survivors/oanhptk.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "thinhhq",
+  "name": "Hoàng Quốc Thịnh",
+  "image": "/sites/vng22/survivors/thinhhq.webp",
+  "tenure": 15,
+  "bu": "Verichains"
+ },
+ {
+  "username": "aihx",
+  "name": "Hồ Xuân Ái",
+  "image": "/sites/vng22/survivors/aihx.webp",
+  "tenure": 15,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "hengmx",
+  "name": "Mei Xue Heng",
+  "image": "/sites/vng22/survivors/hengmx.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "thanhnt3",
+  "name": "Ninh Thị Thanh",
+  "image": "/sites/vng22/survivors/thanhnt3.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "thanhvb",
+  "name": "Văn Bá Thanh",
+  "image": "/sites/vng22/survivors/thanhvb.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "thudta2",
+  "name": "Đỗ Thị Ánh Thu",
+  "image": "/sites/vng22/survivors/thudta2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huongltt",
+  "name": "Lý Thị Thu Hương",
+  "image": "/sites/vng22/survivors/huongltt.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "nhungvth",
+  "name": "Võ Thị Hồng Nhung",
+  "image": "/sites/vng22/survivors/nhungvth.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "thaonh",
+  "name": "Nguyễn Hiền Thảo",
+  "image": "/sites/vng22/survivors/thaonh.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "loanlh",
+  "name": "Lâm Hồng Loan",
+  "image": "/sites/vng22/survivors/loanlh.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "anhh",
+  "name": "Hồ Hải An",
+  "image": "/sites/vng22/survivors/anhh.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hoaitt",
+  "name": "Trần Thanh Hoài",
+  "image": "/sites/vng22/survivors/hoaitt.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "khoahd2",
+  "name": "Huỳnh Đăng Khoa",
+  "image": "/sites/vng22/survivors/khoahd2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "minhnd",
+  "name": "Nguyễn Đắc Minh",
+  "image": "/sites/vng22/survivors/minhnd.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "quitlh",
+  "name": "Trần Lâm Hạo Qui",
+  "image": "/sites/vng22/survivors/quitlh.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "loandt",
+  "name": "Đinh Thị Loan",
+  "image": "/sites/vng22/survivors/loandt.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "hiennt4",
+  "name": "Nguyễn Thanh Hiền",
+  "image": "/sites/vng22/survivors/hiennt4.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "trilk",
+  "name": "Lê Kim Trí",
+  "image": "/sites/vng22/survivors/logo-survivor.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "tienntx",
+  "name": "Nguyễn Thị Xuân Tiên",
+  "image": "/sites/vng22/survivors/tienntx.webp",
+  "tenure": 15,
+  "bu": "SMT Office"
+ },
+ {
+  "username": "dungnlp",
+  "name": "Nguyễn Lê Phương Dung",
+  "image": "/sites/vng22/survivors/dungnlp.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "nitng",
+  "name": "Trần Ngọc Giáng Ni",
+  "image": "/sites/vng22/survivors/nitng.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "tuanntt",
+  "name": "Nguyễn Trần Tấn Tuấn",
+  "image": "/sites/vng22/survivors/tuanntt.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "nguyettt2",
+  "name": "Trương Thị Nguyệt",
+  "image": "/sites/vng22/survivors/nguyettt2.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "hungnm4",
+  "name": "Nguyễn Minh Hùng",
+  "image": "/sites/vng22/survivors/hungnm4.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "nhungpth",
+  "name": "Phùng Thị Hồng Nhung",
+  "image": "/sites/vng22/survivors/nhungpth.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "trungnv",
+  "name": "Nguyễn Văn Trung",
+  "image": "/sites/vng22/survivors/trungnv.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "huypva",
+  "name": "Phan Văn Anh Huy",
+  "image": "/sites/vng22/survivors/huypva.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "hienntv",
+  "name": "Nguyễn Thị Vân Hiền",
+  "image": "/sites/vng22/survivors/hienntv.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "thaipm",
+  "name": "Phan Minh Thái",
+  "image": "/sites/vng22/survivors/thaipm.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "bonpv",
+  "name": "Phạm Văn Bôn",
+  "image": "/sites/vng22/survivors/bonpv.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "minhlth",
+  "name": "Lê Thị Hồng Minh",
+  "image": "/sites/vng22/survivors/minhlth.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "nghiant2",
+  "name": "Nguyễn Trọng Nghĩa",
+  "image": "/sites/vng22/survivors/nghiant2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "phucph2",
+  "name": "Phạm Hoàng Phúc",
+  "image": "/sites/vng22/survivors/phucph2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hieptt",
+  "name": "Trần Trung Hiệp",
+  "image": "/sites/vng22/survivors/hieptt.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "ngoctdn",
+  "name": "Thái Đặng Như Ngọc",
+  "image": "/sites/vng22/survivors/ngoctdn.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "phuongtt",
+  "name": "Trần Thu Phương",
+  "image": "/sites/vng22/survivors/phuongtt.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "vubl",
+  "name": "Bạch Long Vũ",
+  "image": "/sites/vng22/survivors/vubl.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "hanght2",
+  "name": "Hoàng Thị Hằng",
+  "image": "/sites/vng22/survivors/hanght2.webp",
+  "tenure": 15,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "phuongnv3",
+  "name": "Nguyễn Văn Phương",
+  "image": "/sites/vng22/survivors/phuongnv3.webp",
+  "tenure": 15,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "quangtm3",
+  "name": "Trần Minh Quang",
+  "image": "/sites/vng22/survivors/quangtm3.webp",
+  "tenure": 15,
+  "bu": "GreenNode"
+ },
+ {
+  "username": "danhtnc",
+  "name": "Trần Nguyễn Công Danh",
+  "image": "/sites/vng22/survivors/danhtnc.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hieutv",
+  "name": "Trương Văn Hiếu",
+  "image": "/sites/vng22/survivors/hieutv.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "nadt2",
+  "name": "Đặng Thị Na",
+  "image": "/sites/vng22/survivors/nadt2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "hattv",
+  "name": "Trần Thị Việt Hà",
+  "image": "/sites/vng22/survivors/hattv.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "luatdt",
+  "name": "Đoàn Tường Luật",
+  "image": "/sites/vng22/survivors/luatdt.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "thuttm2",
+  "name": "Trần Thị Minh Thư",
+  "image": "/sites/vng22/survivors/thuttm2.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "danhnt",
+  "name": "Nguyễn Thành Danh",
+  "image": "/sites/vng22/survivors/danhnt.webp",
+  "tenure": 15,
+  "bu": "Data Center - STT"
+ },
+ {
+  "username": "longtb",
+  "name": "Trương Bảo Long",
+  "image": "/sites/vng22/survivors/longtb.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "phatlt2",
+  "name": "Lê Tấn Phát",
+  "image": "/sites/vng22/survivors/phatlt2.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "trihv",
+  "name": "Huỳnh Vĩnh Trí",
+  "image": "/sites/vng22/survivors/trihv.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "tienct",
+  "name": "Cao Thăng Tiến",
+  "image": "/sites/vng22/survivors/tienct.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "dieunq",
+  "name": "Nguyễn Quang Diệu",
+  "image": "/sites/vng22/survivors/dieunq.webp",
+  "tenure": 15,
+  "bu": "Zalo"
+ },
+ {
+  "username": "haipnh",
+  "name": "Phan Nguyễn Hoàng Hải",
+  "image": "/sites/vng22/survivors/haipnh.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ },
+ {
+  "username": "khoatd2",
+  "name": "Trần Đăng Khoa",
+  "image": "/sites/vng22/survivors/khoatd2.webp",
+  "tenure": 15,
+  "bu": "ZingPlay Game Studios"
+ },
+ {
+  "username": "hoangntm",
+  "name": "Nguyễn Thị Mỹ Hoàng",
+  "image": "/sites/vng22/survivors/hoangntm.webp",
+  "tenure": 15,
+  "bu": "Zalopay"
+ },
+ {
+  "username": "phuongdtl",
+  "name": "Đỗ Thị Lan Phương",
+  "image": "/sites/vng22/survivors/phuongdtl.webp",
+  "tenure": 15,
+  "bu": "Corporate Platform"
+ },
+ {
+  "username": "huynhttt",
+  "name": "Trần Thị Thúy Huỳnh",
+  "image": "/sites/vng22/survivors/huynhttt.webp",
+  "tenure": 15,
+  "bu": "VNGGames"
+ }
+]
